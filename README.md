@@ -31,4 +31,3 @@ Sistemin temelinde, meteorolojik verilerin ve geçmiş santral performansının 
 *   **Görev Kuyruğu (Task Queue):** Celery, Redis (Periyodik API çekimleri ve ML model eğitimleri için)
 
 ---
-*Aero Flux - Yenilenebilir Enerjinin Geleceğini Bugünden Tahmin Edin.*
